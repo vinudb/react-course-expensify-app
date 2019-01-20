@@ -1,0 +1,7 @@
+// $brandColor : blue;
+// *{
+//     color: $brandColor;
+// }
+//the partial scss files are imported by ommiting _ and extension and only the name. 
+@import './base/settings';
+@import './base/base';
