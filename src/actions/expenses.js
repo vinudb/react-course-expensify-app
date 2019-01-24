@@ -1,7 +1,7 @@
 import uuid from 'uuid';
 //ADD_EXPENSE
 export const addExpense = (
-    //below {} is destructuring of the arguement
+    //below {} is destructuring of the arguement 
     {
         description = '',
         note = '',
